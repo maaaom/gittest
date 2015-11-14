@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "this is git test";
+        echo "1.0";
         ?>
     </body>
 </html>
