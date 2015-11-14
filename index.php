@@ -12,11 +12,10 @@ and open the template in the editor.
     <body>
         <?php
         echo "this is git test";
-<<<<<<< HEAD
+
         echo "This v1.10";
-=======
-        echo "1.0";
->>>>>>> refs/remotes/origin/v1.1
+        
+        echo "Thanks";
         ?>
     </body>
 </html>
